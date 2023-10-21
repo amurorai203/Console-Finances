@@ -30,8 +30,7 @@ N/A
 
 ## Credits
 
-References are followed by Bootstrap listed below:
-- [Bootstrap](https://getbootstrap.com/)
+N/A
 
 ## License
 
